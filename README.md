@@ -68,6 +68,9 @@ Le projet utilise plusieurs technologies modernes afin de construire une solutio
 La structure du projet a été organisée afin de séparer clairement les différentes parties du système.
 
 ```text
+# Structure du projet
+
+```text
 project_root/
 │
 ├── notebooks/
@@ -101,8 +104,6 @@ project_root/
 ├── .env.example
 └── README.md
 ```
-
----
 
 # Explication des dossiers
 
