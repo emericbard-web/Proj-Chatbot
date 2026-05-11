@@ -1,6 +1,6 @@
 # CECCE Virtual Agent Chatbot
 
-> Dans ce projet, je vais développer un chatbot informationnel connecté à ServiceNow Virtual Agent afin d’aider les employés du CECCE à retrouver plus facilement des informations importantes à partir du Google Sites public et des documents PDF associés.
+> Dans ce projet, ont va avoir besoins de  développer un chatbot informationnel connecté à ServiceNow Virtual Agent afin d’aider les employés du CECCE à retrouver plus facilement des informations importantes à partir du Google Sites public et des documents PDF associés.
 
 ## Description du projet
 
