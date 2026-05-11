@@ -1,8 +1,6 @@
-# Proj-Chatbot
-
 # CECCE Virtual Agent Chatbot
 
-> Dans ce projet, le but va etre de développer un chatbot informationnel connecté à ServiceNow Virtual Agent afin d’aider les employés du CECCE à retrouver plus facilement des informations importantes à partir du Google Sites public et des documents PDF associés.
+> Dans ce projet, je vais développer un chatbot informationnel connecté à ServiceNow Virtual Agent afin d’aider les employés du CECCE à retrouver plus facilement des informations importantes à partir du Google Sites public et des documents PDF associés.
 
 ## Description du projet
 
@@ -68,9 +66,6 @@ Le projet utilise plusieurs technologies modernes afin de construire une solutio
 La structure du projet a été organisée afin de séparer clairement les différentes parties du système.
 
 ```text
-# Structure du projet
-
-```text
 project_root/
 │
 ├── notebooks/
@@ -104,6 +99,8 @@ project_root/
 ├── .env.example
 └── README.md
 ```
+
+---
 
 # Explication des dossiers
 
@@ -199,6 +196,18 @@ Pour ce projet, je vais avancer progressivement afin de valider chaque partie av
 
 Dans cette première phase, je vais préparer toute la base du projet avant de commencer le développement du chatbot. Selon moi, cette étape est très importante parce qu’elle permet d’avoir une structure propre et organisée dès le début du projet. Je vais aussi préparer l’environnement de développement, les dossiers, les notebooks et les fichiers nécessaires afin de faciliter les prochaines étapes du développement.
 
+Durant cette phase, je vais également définir le périmètre du POC afin de déterminer quelles pages du Google Sites et quels documents PDF seront utilisés dans la première version du projet. Je pense qu’il est préférable de commencer avec un sous-ensemble limité du contenu afin de tester correctement le comportement du chatbot avant d’agrandir le corpus.
+
+Le Google Sites principal utilisé pour le projet est le suivant :
+
+[https://sites.google.com/ecolecatholique.ca/mourad/accueil](https://sites.google.com/ecolecatholique.ca/mourad/accueil)
+
+Je vais aussi préparer un ensemble initial de questions d’évaluation afin de tester la qualité des réponses générées par Gemini File Search. Ces questions permettront plus tard de vérifier si les réponses retournées par le chatbot sont pertinentes, claires et reliées aux bonnes sources.
+
+Cette phase va aussi servir à préparer l’environnement Python, installer les dépendances nécessaires et configurer les fichiers d’environnement pour la Gemini API.
+
+Dans cette première phase, je vais préparer toute la base du projet avant de commencer le développement du chatbot. Selon moi, cette étape est très importante parce qu’elle permet d’avoir une structure propre et organisée dès le début du projet. Je vais aussi préparer l’environnement de développement, les dossiers, les notebooks et les fichiers nécessaires afin de faciliter les prochaines étapes du développement.
+
 ## Objectif
 
 Préparer l’environnement de développement et définir le périmètre du projet.
@@ -216,7 +225,7 @@ Préparer l’environnement de développement et définir le périmètre du proj
 
 ## Résultat attendu
 
-Un projet propre, organisé et prêt pour le développement.
+À la fin de cette phase, je veux obtenir un projet propre, organisé et prêt pour le développement des prochaines étapes. Je veux aussi avoir une bonne base technique afin de pouvoir commencer le crawl du Google Sites et l’intégration avec Gemini File Search sans devoir modifier constamment la structure du projet.
 
 ---
 
@@ -515,8 +524,12 @@ Créer un fichier `.env` à partir de `.env.example`.
 ## En cours
 
 * Préparation de la Phase 0
-* Définition du périmètre
+* Définition du périmètre du POC
 * Préparation des questions d’évaluation
+* Préparation du notebook initial
+* Configuration de l’environnement Gemini API
+* Validation de la structure du projet
+* Organisation des données et des dossiers
 
 ## À venir
 
