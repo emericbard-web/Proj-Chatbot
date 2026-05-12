@@ -14,13 +14,13 @@ Le système ne réalisera aucune action transactionnelle. Il servira uniquement 
 
 # Objectifs du projet
 
-Dans ce projet, je pense que les objectifs les plus importants sont les suivants :
+Dans ce projet, je pense que les objectifs les plus importants sont les suivants : 
 
 * Réduire le temps nécessaire pour retrouver une information.
 * Simplifier la navigation dans le Google Sites du CECCE.
 * Fournir des réponses plus claires et plus rapides aux employés.
 * Utiliser un système moderne de recherche intelligente.
-* Afficher des réponses avec des citations et des liens vers les sources.
+* Afficher des réponses avec des citations et des liens vers les sources .
 * Construire une architecture simple, maintenable et évolutive.
 * Préparer une intégration avec ServiceNow Virtual Agent.
 
