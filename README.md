@@ -10,7 +10,7 @@ Ici, je vais utiliser la Gemini API ainsi que Gemini File Search afin d’effect
 
 Le système ne réalisera aucune action transactionnelle. Il servira uniquement comme assistant informationnel afin de faciliter l’accès aux procédures, politiques, coordonnées et documents de référence.
 
----
+----
 
 # Objectifs du projet
 
