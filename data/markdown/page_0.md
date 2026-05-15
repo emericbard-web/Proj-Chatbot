@@ -3,7 +3,7 @@ Sign in - Google Accounts
 ![Google](//ssl.gstatic.com/images/branding/googlelogo/2x/googlelogo_color_74x24dp.png)
 
 Sign in
-=======
+======= 
 
 Use your Google Account
 
