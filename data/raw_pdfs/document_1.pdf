@@ -1,0 +1,7 @@
+<HTML><HEAD>
+<meta http-equiv="content-type" content="text/html;charset=utf-8">
+<TITLE>Redirecting</TITLE>
+<META HTTP-EQUIV="refresh" content="1; url=https://www.santepubliqueottawa.ca/fr/public-health-services/resources/Documents/htt_activity_guide_fr.pdf">
+</HEAD>
+<BODY onLoad="location.replace('https://www.santepubliqueottawa.ca/fr/public-health-services/resources/Documents/htt_activity_guide_fr.pdf'+document.location.hash)">
+Redirecting you to https://www.santepubliqueottawa.ca/fr/public-health-services/resources/Documents/htt_activity_guide_fr.pdf</BODY></HTML>
